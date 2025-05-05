@@ -1,1 +1,5 @@
-# AWS-Summit-Poland
+# AWS Summit Poland
+
+```
+A bird sitting on a branch
+```
