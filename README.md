@@ -1,5 +1,14 @@
 # AWS Summit Poland
 
+Amazon Q Chat:
+```
+Create a sample csv file with data about plants and trees. Add the characteristics you think are most appropiate.
+```
+```
+Create a python app to analyze the csv data from plants.csv and generate some statistics in a table. Please also include unit tests for the app.
+```
+
+Nova Canvas:
 ```
 A bird sitting on a branch
 ```
