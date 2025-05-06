@@ -8,6 +8,11 @@ Create a sample csv file named plants.csv with data about plants and trees. Add 
 Create a python app to analyze the csv data from plants.csv and generate some statistics in a table. Please also include unit tests for the app.
 ```
 
+Amazon-Nova-Samples prompt:
+```
+In a new folder, create a web application for video and image generation that uses the notebooks from multimodal-generation/workshop-sample as examples to create the applications. Adapt the code in the notebooks to interact with models. Use existing model IDs.
+```
+
 Nova Canvas:
 ```
 A bird sitting on a branch
