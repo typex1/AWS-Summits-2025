@@ -1,4 +1,4 @@
-# AWS Summit Poland
+# AWS Summits 2025
 
 Amazon Q Chat:
 ```
