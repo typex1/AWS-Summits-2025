@@ -10,7 +10,8 @@ Create a python app to analyze the csv data from plants.csv and generate some st
 Also include unit tests for the app.
 ```
 
-Amazon-Nova-Samples prompt:
+Amazon-Nova-Samples prompt, related to these Jupyter Notebooks:
+https://github.com/aws-samples/amazon-nova-samples/tree/main/multimodal-generation/workshop-sample/NovaCanvas
 ```
 In a new folder, create a web application for video and image generation that uses the notebooks from
 multimodal-generation/workshop-sample as examples to create the applications.
