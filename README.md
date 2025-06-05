@@ -1,6 +1,6 @@
 # AWS Summits 2025
 
-Amazon Q Chat:
+Amazon Q Chat in VSCode:
 ```
 Create a sample csv file named plants.csv with data about plants and trees. Add the characteristics you think are most appropiate.
 ```
@@ -16,6 +16,17 @@ In a new folder, create a web application for video and image generation that us
 Nova Canvas:
 ```
 A bird sitting on a branch
+```
+
+Amazon Q - GitHub:
+```
+Create a CloudFormation template that builds the following infrastructure:
+
+* An S3 bucket containing web app code which allows users to upload files to S3.
+* The web app code is deployed to and hosted via AWS Amplify
+* An S3 bucket which stores the uploaded files.
+* File upload is done via an S3 pre-signed URL, created by a Lambda function.
+* The Lambda function is invoked via API Gatway, and the API Gateway api is called from the web app.
 ```
 
 Links:
