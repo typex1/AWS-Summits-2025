@@ -31,6 +31,22 @@ Create a CloudFormation template that builds the following infrastructure:
 * The Lambda function is invoked via API Gatway, and the API Gateway api is called from the web app.
 ```
 
+Amazon Q CLI:
+```
+Create a CloudFormation template that builds the following infrastructure:
+
+* An S3 bucket containing web app code which allows users to upload files to S3.
+* The web app code is deployed to and hosted via AWS Amplify
+* An S3 bucket which stores the uploaded files.
+* File upload is done via an S3 pre-signed URL, created by a Lambda function.
+* The Lambda function is invoked via API Gatway, and the API Gateway api is called from the web app.
+```
+```
+Create a draw.io diagram which shows the architecture.
+I'll create a diagram showing the architecture of the file upload application using the diagrams package. Let me
+generate a visual representation of the infrastructure we defined in the CloudFormation template.
+```
+
 Links:
 
 https://static-website-fsp.s3.us-east-1.amazonaws.com/media/Install_Amazon_Q_Dev_VSCode.mp4
