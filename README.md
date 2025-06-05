@@ -12,7 +12,9 @@ Also include unit tests for the app.
 
 Amazon-Nova-Samples prompt:
 ```
-In a new folder, create a web application for video and image generation that uses the notebooks from multimodal-generation/workshop-sample as examples to create the applications. Adapt the code in the notebooks to interact with models. Use existing model IDs.
+In a new folder, create a web application for video and image generation that uses the notebooks from
+multimodal-generation/workshop-sample as examples to create the applications.
+Adapt the code in the notebooks to interact with models. Use existing model IDs.
 ```
 
 Nova Canvas:
