@@ -2,10 +2,12 @@
 
 Amazon Q Chat in VSCode:
 ```
-Create a sample csv file named plants.csv with data about plants and trees. Add the characteristics you think are most appropiate.
+Create a sample csv file named plants.csv with data about plants and trees.
+Add the characteristics you think are most appropiate.
 ```
 ```
-Create a python app to analyze the csv data from plants.csv and generate some statistics in a table. Please also include unit tests for the app.
+Create a python app to analyze the csv data from plants.csv and generate some statistics in a table.
+Also include unit tests for the app.
 ```
 
 Amazon-Nova-Samples prompt:
